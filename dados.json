@@ -1,0 +1,27 @@
+[
+    {
+        "altura": 1.9,
+        "codigo": 123,
+        "idade": 18,
+        "nome": "Pedro Crispim",
+        "notas": [
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    {
+        "altura": 1.6,
+        "codigo": 432,
+        "idade": 18,
+        "nome": "leticiã",
+        "notas": [
+            10,
+            11,
+            12,
+            92,
+            2
+        ]
+    }
+]
